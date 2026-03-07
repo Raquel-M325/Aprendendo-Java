@@ -1,8 +1,8 @@
 public class Main{
     public static void main(String[] args){
 
-        int idade = 21;
-        double altura = 1.75;
+        int idade = 8;
+        double altura = 2.50;
         String nome = "Raquel";
 
         System.out.println(nome);
