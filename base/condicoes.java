@@ -1,3 +1,4 @@
+package base;
 public class condicoes{
 
     public static void valor(int x){

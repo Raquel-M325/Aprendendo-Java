@@ -1,3 +1,4 @@
+package base;
 public class Calculando{
     public static void main(String[] args){ //tem que te main, mesmo que nao sejam o mesmo do principal da classe
 

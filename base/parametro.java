@@ -1,3 +1,4 @@
+package base;
 public class parametro{
     
     public static int somar(int valor1, int valor2){
