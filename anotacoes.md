@@ -1,4 +1,6 @@
-# Sobre Docker
+# Anotações 
+
+## Sobre Docker
 1. O comando "docker run -it java..." faz com que o input de java por exemplo funcione!
 
 2. Se deu "docker build -t java... ." e você mudou o código, terá que repetir novamente o mesmo comando, por conta que não mais a mesma imagem copiada
@@ -9,7 +11,7 @@
 
 5. No Dockerfile, toda vez que for testar em um arquivo ou pasta diferente, terá que alterar o caminho RUN para direcionar qual dos arquivos precisará compilar e usar no teste, inclusive é recomendado mudar o nome do CMD também para ficar organizado no Docker instalado no seu PC
 
-# Sobre Java
+## Sobre Java
 1. Java tem os comando parecidos com C++ e precisa ter um baixado para ajudar a Java funcionar, mas com Docker, não precisará mais baixar a instalação
 
 2. Main sempre deve estar por último dos outros static como C++ 
