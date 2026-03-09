@@ -14,5 +14,7 @@ public class ex01{
         else {
             System.out.println("Menor de idade...");
         }
+
+        input.close();
     }
 }
